@@ -1,3 +1,9 @@
+#AUTORES
+Ronaldo Aparecido Monteiro Almeida RM:565017
+Lucas Rowlands Abat RM: 562994
+Lucas Flekner Branquinho RM: 562262
+Vitor Bordalo Correa Guimarães RM: 561592
+
 # README — Controle de LED (ESP32) via MQTT
 
 > Projeto: Cliente MQTT para ESP32 que controla um LED (onboard) e publica valores de luminosidade.
