@@ -1,4 +1,8 @@
-#AUTORES
+#AUTORES ORIGINAIS DO CÓDIGO
+
+Lucas Demetrius Augusto e Fabio Henrique Cabrini
+
+#AUTORES DO TRABALHO
 Ronaldo Aparecido Monteiro Almeida RM:565017
 Lucas Rowlands Abat RM: 562994
 Lucas Flekner Branquinho RM: 562262
